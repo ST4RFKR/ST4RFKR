@@ -1,5 +1,5 @@
-## Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&font=Nunito&lines=Hello,+I'm+a+developer!;I+love+coding!)
+
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&font=Nunito&lines=Hello,+I'm+a+developer!;I+love+coding!)
 
 
 <!--
