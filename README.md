@@ -1,5 +1,7 @@
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&font=Nunito&lines=Hello,+I'm+a+developer!;I+love+coding!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&font=Nunito&weight=700&lines=Hello,+I'm+Evgeny!;I'm+a+Frontend+Developer!)
+
+![Крутая картинка]([https://your-image-url.com/image.png](https://media1.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif))
 
 
 <!--
