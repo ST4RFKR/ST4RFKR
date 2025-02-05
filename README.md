@@ -25,7 +25,7 @@
 
 
 ### 🧑‍💻 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenydev&layout=compact&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST4RFKR&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventurers-Movie-Quotes&theme=dark&text_color=010101&bg_color=ff639d&show_icons=true)
 
 
 
