@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&font=Nunito&weight=700&lines=Hello,+I'm+Evgeny!;I'm+a+Frontend+Developer!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=333333&font=Nunito&weight=700&lines=Hello,+I'm+Evgeny!;I'm+a+Frontend+Developer!)
 
 <p align="center">   
   <img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" alt="Крутая картинка">
